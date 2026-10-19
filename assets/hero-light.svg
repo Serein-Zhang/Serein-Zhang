@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Serein Zhang — Film sound. Practical tools.</title>
+  <desc id="desc">An editorial banner in warm cream and deep green. Film, fabrication and software are paired with an abstract film frame and a waveform. All artwork is illustrative.</desc>
+  <!-- Editable vector artwork. System fonts only; no external resources. -->
+  <!-- Palette: paper #F3F0E7, ink #203A32, muted #607468, teal #739487, accent #B9563D. -->
+  <rect width="1200" height="360" rx="14" fill="#F3F0E7"/>
+  <path d="M60 70H84" stroke="#B9563D" stroke-width="3"/>
+  <text x="99" y="79" fill="#203A32" font-family="Arial, Helvetica, sans-serif" font-size="33" letter-spacing=".8">Serein Zhang</text>
+  <g fill="#203A32" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="-2.2">
+    <text x="56" y="169">Film sound.</text>
+    <text x="56" y="250">Practical tools.</text>
+  </g>
+  <g fill="#607468" font-family="Arial, Helvetica, sans-serif" font-size="32" letter-spacing=".1">
+    <text x="60" y="316">Film</text>
+    <text x="137" y="316" fill="#B9563D">·</text>
+    <text x="164" y="316">Fabrication</text>
+    <text x="337" y="316" fill="#B9563D">·</text>
+    <text x="364" y="316">Software</text>
+  </g>
+  <!-- Film strip: open frame, quiet perforations, no project imagery. -->
+  <g fill="none" stroke="#A4B2A4" stroke-width="1.3">
+    <path d="M735 58H1134M735 302H1134"/>
+    <rect x="764" y="84" width="343" height="192" rx="3"/>
+  </g>
+  <g fill="#CED6C9">
+    <rect x="765" y="42" width="24" height="9" rx="2"/><rect x="810" y="42" width="24" height="9" rx="2"/>
+    <rect x="855" y="42" width="24" height="9" rx="2"/><rect x="900" y="42" width="24" height="9" rx="2"/>
+    <rect x="945" y="42" width="24" height="9" rx="2"/><rect x="990" y="42" width="24" height="9" rx="2"/>
+    <rect x="1035" y="42" width="24" height="9" rx="2"/><rect x="1080" y="42" width="24" height="9" rx="2"/>
+    <rect x="765" y="309" width="24" height="9" rx="2"/><rect x="810" y="309" width="24" height="9" rx="2"/>
+    <rect x="855" y="309" width="24" height="9" rx="2"/><rect x="900" y="309" width="24" height="9" rx="2"/>
+    <rect x="945" y="309" width="24" height="9" rx="2"/><rect x="990" y="309" width="24" height="9" rx="2"/>
+    <rect x="1035" y="309" width="24" height="9" rx="2"/><rect x="1080" y="309" width="24" height="9" rx="2"/>
+  </g>
+  <!-- Image plane: restrained composition guides and a sound gesture. -->
+  <path d="M788 108H812M788 108V132M1083 108H1059M1083 108V132M788 252H812M788 252V228M1083 252H1059M1083 252V228" fill="none" stroke="#739487" stroke-width="1.4"/>
+  <path d="M691 180H1150" stroke="#C4CEC1" stroke-width="1"/>
+  <path d="M691 180H764L776 177L786 184L796 170L806 192L816 151L826 211L836 129L846 229L856 115L866 241L876 142L886 212L896 160L906 195L916 174L926 185L936 168L946 196L956 150L966 213L976 138L986 221L996 157L1006 199L1016 169L1026 189L1036 177L1046 183L1056 180H1150" fill="none" stroke="#3D7060" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M936 94V266" stroke="#B9563D" stroke-width="1.3"/>
+  <circle cx="936" cy="180" r="4" fill="#B9563D" stroke="#F3F0E7" stroke-width="2"/>
+  <path d="M931 89H941L936 95Z" fill="#B9563D"/>
+  <path d="M936 266L931 272H941Z" fill="#B9563D"/>
+</svg>
